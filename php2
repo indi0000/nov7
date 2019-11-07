@@ -6,3 +6,5 @@ true =>"d"
 );
   echo $array;
   // var_dump($array);
+echo $array[1.5]
+?>
