@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
+  <h1 style="background-color:green;">Hello World</h1>
+<p style="background-color:pink;">Lorem ipsum...</p>
+<h1 style="background-color:brown;">Hello World</h1>
+
+
+
+<?php
+echo "My first PHP script!";
+?> 
+
+</body>
+</html>
