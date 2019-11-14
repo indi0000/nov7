@@ -1,0 +1,3 @@
+$colours = array ("red","blue","green","orange","pink" );
+
+echo $colours[1];
